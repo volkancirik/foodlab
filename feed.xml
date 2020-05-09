@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The AI Bookshelf</title>
-    <description>Chronological summaries of books on AI</description>
+    <title>Volkan Cirik's FoodLab</title>
+    <description>Stuff I prepare for eating.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Dec 2019 09:35:57 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2019 09:35:57 -0500</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Sat, 09 May 2020 17:48:13 -0400</pubDate>
+    <lastBuildDate>Sat, 09 May 2020 17:48:13 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Psychology Of Intelligence</title>
-        <description>&lt;p&gt;Loading…&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Nov 2019 00:00:00 -0400</pubDate>
-        <link>/articles/Psychology-of-Intelligence</link>
-        <guid isPermaLink="true">/articles/Psychology-of-Intelligence</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cybernetics</title>
+        <title>Test2</title>
         <description>&lt;p&gt;loading…&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
-        <link>/articles/cybernetics</link>
-        <guid isPermaLink="true">/articles/cybernetics</guid>
+        <pubDate>Sat, 09 May 2020 00:00:00 -0400</pubDate>
+        <link>/articles/Test2</link>
+        <guid isPermaLink="true">/articles/Test2</guid>
         
         
       </item>
     
       <item>
-        <title>Tufte Style Jekyll Blog</title>
+        <title>Test</title>
         <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;The Tufte Jekyll theme&lt;/span&gt;  is an attempt to create a website design with the look and feel of Edward Tufte’s books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.&lt;!--more--&gt; The idea for this project is essentially cribbed wholesale from Tufte and R Markdown’s Tufte Handout format&lt;label for=&quot;One&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;One&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;See &lt;a href=&quot;https://tufte-latex.github.io/tufte-latex/&quot;&gt;tufte-latex.github.io/tufte-latex/&lt;/a&gt; and &lt;a href=&quot;http://rmarkdown.rstudio.com/tufte_handout_format.html&quot;&gt;rmarkdown.rstudio.com/tufte_handout_format&lt;/a&gt; &lt;/span&gt; This page is an adaptation of the &lt;a href=&quot;http://rmarkdown.rstudio.com/examples/tufte-handout.pdf&quot;&gt;Tufte Handout PDF&lt;/a&gt;.&lt;/p&gt;
@@ -441,9 +430,9 @@ etc..
    ```&lt;/code&gt; &lt;/pre&gt;
 
 </description>
-        <pubDate>Thu, 19 Feb 2015 00:00:00 -0500</pubDate>
-        <link>/articles/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">/articles/tufte-style-jekyll-blog</guid>
+        <pubDate>Sat, 09 May 2020 00:00:00 -0400</pubDate>
+        <link>/articles/Test</link>
+        <guid isPermaLink="true">/articles/Test</guid>
         
         
       </item>
