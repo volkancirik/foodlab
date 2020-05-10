@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Volkan Cirik's FoodLab</title>
+    <title>FoodLab</title>
     <description>Stuff I prepare for eating.</description>
     <link>https://volkancirik.github.io/foodlab//</link>
     <atom:link href="https://volkancirik.github.io/foodlab//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 May 2020 18:40:12 -0400</pubDate>
-    <lastBuildDate>Sat, 09 May 2020 18:40:12 -0400</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 11:07:43 -0400</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 11:07:43 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -433,6 +433,40 @@ etc..
         <pubDate>Sat, 09 May 2020 00:00:00 -0400</pubDate>
         <link>https://volkancirik.github.io/foodlab//articles/Test</link>
         <guid isPermaLink="true">https://volkancirik.github.io/foodlab//articles/Test</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Filled Artichoke</title>
+        <description>&lt;h3 id=&quot;step-i&quot;&gt;Step I&lt;/h3&gt;
+
+&lt;p&gt;&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;https://volkancirik.github.io/foodlab//assets/img/enginar1.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” &lt;em&gt;Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice&lt;/em&gt; (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s &lt;em&gt;Visual Explanations&lt;/em&gt;.&lt;/span&gt;Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_plugins&lt;/code&gt; directory like so:&lt;/p&gt;
+
+&lt;h3 id=&quot;full-width-figures&quot;&gt;Full Width Figures&lt;/h3&gt;
+
+&lt;p&gt;If you need a full-width image or figure, another custom liquid tag is available to use. Oddly enough, it is named ‘fullwidth’, and this markup:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;{% fullwidth 'assets/img/napoleons-march.png' 'Napoleon's March (Edward Tufte’s English translation)'  %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Yields this:&lt;/p&gt;
+
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;https://volkancirik.github.io/foodlab//assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon's March (Edward Tufte’s English translation)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;main-column-figures&quot;&gt;Main Column Figures&lt;/h3&gt;
+
+&lt;p&gt;Besides margin and full width figures, you can of course also include figures constrained to the main column. Yes, you guessed it, a custom liquid tag rides to the rescue once again:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;{% maincolumn 'assets/img/export-imports.png' 'From Edward Tufte, *Visual Display of Quantitative Information*, page 92'  %}&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;yields this:&lt;/p&gt;
+
+&lt;figure&gt;&lt;figcaption&gt;From Edward Tufte, *Visual Display of Quantitative Information*, page 92&lt;/figcaption&gt;&lt;img src=&quot;https://volkancirik.github.io/foodlab//assets/img/exports-imports.png&quot; /&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Sat, 09 May 2020 00:00:00 -0400</pubDate>
+        <link>https://volkancirik.github.io/foodlab//articles/Filled-Artichoke</link>
+        <guid isPermaLink="true">https://volkancirik.github.io/foodlab//articles/Filled-Artichoke</guid>
         
         
       </item>
