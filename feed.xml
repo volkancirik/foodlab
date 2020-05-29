@@ -5,13 +5,13 @@
     <description>Stuff I prepare for eating.</description>
     <link>https://volkancirik.github.io/foodlab/</link>
     <atom:link href="https://volkancirik.github.io/foodlab/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2020 14:33:18 -0400</pubDate>
-    <lastBuildDate>Fri, 29 May 2020 14:33:18 -0400</lastBuildDate>
+    <pubDate>Fri, 29 May 2020 14:38:07 -0400</pubDate>
+    <lastBuildDate>Fri, 29 May 2020 14:38:07 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Yogurt</title>
-        <description>&lt;p&gt;As an expat &lt;label for=&quot;mn-id-0&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-id-0&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;I am not sure if I should consider myself as expat or immigrant. &lt;/span&gt;, I miss sour Turkish yogurt. The best alternative I could find was Bulgarian yogurt &lt;label for=&quot;mn-id-1&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Fun trivia my grandparents from both sides are immigrants from Bulgaria. &lt;/span&gt; at Wholefoods. But you can easily make your own sour Turkish yogurt.&lt;/p&gt;
+        <description>&lt;p&gt;As an expat &lt;label for=&quot;sn-id-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-id-0&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;I am not sure if I should consider myself as expat or immigrant. &lt;/span&gt;, I miss sour Turkish yogurt. The best alternative I could find was Bulgarian yogurt &lt;label for=&quot;sn-id-1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;trivia: my grandparents from both sides are immigrants from Bulgaria. &lt;/span&gt; at Wholefoods. But you can easily make your own sour Turkish yogurt.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-0-ingredients&quot;&gt;Step 0: Ingredients&lt;/h2&gt;
 
@@ -42,7 +42,7 @@ Put the lids on, and cover the containers with a blanket.&lt;/p&gt;
 
 &lt;h2 id=&quot;optional-drained-yogurt&quot;&gt;Optional: Drained Yogurt&lt;/h2&gt;
 
-&lt;p&gt;For many mezes we prepare for Raki tables  &lt;label for=&quot;mn-id-3&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-id-3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;There should be a blogpost for Turkish Raki tables and my meze recipes &lt;/span&gt;
+&lt;p&gt;For many mezes we prepare for Raki tables  &lt;label for=&quot;mn-id-3&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mn-id-3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;There should be a blogpost for Turkish Raki tables and my meze recipes &lt;/span&gt;
 we use a dense version of Yogurt. To get the right viscosity for your mezes, you can pour yogurt to a strainer and keep it in the fridge overnight.
 The next morning you’ll have a perfect drained yogurt. Do not throw away the water (or juice?) add it to your hummus or shakes.&lt;/p&gt;
 
@@ -51,7 +51,7 @@ The next morning you’ll have a perfect drained yogurt. Do not throw away the w
 &lt;p&gt;The longer the milk is in the right temperature range, the more sour your yogurt will be. So it is essential to have a setup.
 Below is an image for my DIY yogurt machine. Here I use a box, styrofoam, and aluminium bag, and styrofoam stand to put the containers in. It works like a charm!&lt;/p&gt;
 
-&lt;figure&gt;&lt;figcaption&gt;From Edward Tufte, *Visual Display of Quantitative Information*, page 92&lt;/figcaption&gt;&lt;img src=&quot;https://volkancirik.github.io/foodlab/assets/img/yogurt.png&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;figcaption&gt;DIY yogurt machine&lt;/figcaption&gt;&lt;img src=&quot;https://volkancirik.github.io/foodlab/assets/img/yogurt.jpg&quot; /&gt;&lt;/figure&gt;
 </description>
         <pubDate>Fri, 29 May 2020 00:00:00 -0400</pubDate>
         <link>https://volkancirik.github.io/foodlab/articles/Yogurt</link>
